@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**CarolaneLFBV/carolanelfbv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I...
+- 👩🏼‍🎓 am a Computer Science Student
+- 📱 would like to specialize in Mobile development
+- 🔭 am currently working on MarioKedex, an API project.
+- 🌱 am currently learning Python and Swift (& SwiftUI) 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Some Github stats
+![CarolaneLFBV's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolanelfbv&show_icons=true&theme=tokyonight)
+
+## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolanelfbv&langs_count=8&layout=compact)
+
+<sub> For now, there isn't much languages, hope to change that soon! </sub>
+
