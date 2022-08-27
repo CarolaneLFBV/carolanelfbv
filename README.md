@@ -1,10 +1,10 @@
 # Hi there 👋
 
-## I...
-- 👩🏼‍🎓 am a Computer Science Student
-- 📱 would like to specialize in Mobile development
-- 🔭 am currently working on MarioKedex, an API project.
-- 🌱 am currently learning Python and Swift (& SwiftUI) 
+## About me
+- 👩🏼‍🎓 Computer Science Student
+- 📱 Would like to specialize in Mobile development
+- 🔭 Currently working on MarioKedex, an API project.
+- 🌱 Currently learning Python and Swift (& SwiftUI) 
 
 
 ## Some Github stats
