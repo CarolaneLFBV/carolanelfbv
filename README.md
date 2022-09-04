@@ -13,5 +13,4 @@
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolanelfbv&langs_count=8&layout=compact)
 
-<sub> For now, there isn't much languages, hope to change that soon! </sub>
 
