@@ -3,7 +3,7 @@
 ## About me
 - 👩🏼‍🎓 Computer Science Student
 - 📱 Would like to specialize in Mobile development
-- 🔭 Currently working on MarioKedex, an API project.
+- 🔭 Currently working on MarioKedex, a mobile app project with an API.
 - 🌱 Currently learning Python and Swift (& SwiftUI) 
 
 
