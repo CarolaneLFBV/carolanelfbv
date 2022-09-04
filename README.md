@@ -1,16 +1,6 @@
-# Hi there 👋
+# Carolane "CarolaneLFBV" LEFEBVRE
 
-## About me
-- 👩🏼‍🎓 Computer Science Student
-- 📱 Would like to specialize in Mobile development
-- 🔭 Currently working on MarioKedex, a mobile app project with an API.
-- 🌱 Currently learning Python and Swift (& SwiftUI) 
+> Think big, but start small. 
 
-
-## Some Github stats
-![CarolaneLFBV's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolanelfbv&show_icons=true&theme=tokyonight)
-
-## Programming languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolanelfbv&langs_count=8)
-
+The world is always evolving and changing. Technology is always reneawable, and thanks to communities, we can build a better world.
 
