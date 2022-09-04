@@ -9,8 +9,6 @@
 
 ## Some Github stats
 ![CarolaneLFBV's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolanelfbv&show_icons=true&theme=tokyonight)
-
-## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolanelfbv&langs_count=8&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carolanelfbv&langs_count=8)
 
 
