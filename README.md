@@ -1,1 +1,1 @@
-> Think big, but start small. 
+> Think big, start small. 
