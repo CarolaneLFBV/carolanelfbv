@@ -1,7 +1,7 @@
 ## 👋🏻 About
 
-- 👩🏼‍🎓 Professional Bachelor in mobile & web development
-- 📱 iOS Developer | CS Student
+- 👩🏼‍🎓 Bachelor Student in mobile & web development
+- 📱 iOS Developer
 - 🏫 Currently in an apprenticeship program (VueJS, Django)
 - 🌱 Self-taught iOS Developer (Swift & SwiftUI)
 
