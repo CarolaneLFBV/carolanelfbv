@@ -20,6 +20,3 @@
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
 
-## 📱Socials
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/carolane-lefebvre/)
-[![Mastodon Badge](https://img.shields.io/badge/Mastodon-Profile-informational?style=flat&logo=mastodon&logoColor=white&color=0D76A8)]((https://mastodon.social/@carolanelefebvre))
