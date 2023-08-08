@@ -2,7 +2,7 @@
 
 - 👩🏼‍🎓 Bachelor in Science Student
 - 🌱 Self-taught iOS Developer (Swift & SwiftUI)
-- 🏫 Currently in an apprenticeship program (VueJS, Django)
+- 🏫 Looking for a Junior iOS Developer internship
 
 ## 📌 Skills
 
