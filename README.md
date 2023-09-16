@@ -2,7 +2,7 @@
 
 - 👩🏼‍🎓 Bachelor in Science Student
 - 🌱 Self-taught iOS Developer (Swift & SwiftUI)
-- 🏫 Looking for a Junior iOS Developer internship
+- 🏫 Looking for an iOS/mobile developer internship
 
 ## 📌 Skills
 
