@@ -1,26 +1,30 @@
-## 👋🏻 About
+## Hey, I'm Carolane 👋🏻
 
-- 👩🏼‍🎓 Bachelor in Science Student
-- 🌱 Self-taught iOS Developer (Swift & SwiftUI)
-- 🏫 Looking for an iOS/mobile developer internship
+* 👩🏼‍💻 I am a **Bachelor in Science Student**, but also a **Self-taught iOS Developer**
+* 🎓 Major is **Computer Science**
+* 💻 I have been developing for a little bit more than a year now!
+* 📱 I like to develop small apps, and challenging ones!
+* 🖥️ I enjoy being around environments such as **macOS, and Linux (Ubuntu)**!
+* 🔔 **If you are in search of an iOS intern or apprentice, don't hesitate to reach out to me!**
 
-## 📌 Skills
+## 🧰 My Technical Skills
+```swift
+let technical-skills = [
+    "mobile": ["Swift", "SwiftUI", "CoreML", "MVVM", "MVVM-C"],
+    "front-end": ["VueJS", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+    "back-end": ["Python", "Java"],
+    "tools": ["Xcode", "Github", "GitLab", "Docker", "CreateML",
+]
+```
 
-### Mobile
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=db7472)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=db7472)
+## ⬆️ What I am up to...
+* I'm currently...
+  ```
+  - Developing FinanceTrackr, a small iOS app to track monthly budget!
+  - Trying to learn Vapor and more!
+  ```
+* In the near future...
+  - Enhance my iOS development skills
+  - Get an iOS || mobile development internship
+  - Contribute more to open-source projects
 
-### Front-End
-![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=vuedotjs&logoColor=white&color=72db90)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=72db90)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=css3&logoColor=white&color=72db90)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=72db90)
-
-### Back-end
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=72afdb)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=72afdb)
-
-### Tools
-![](https://img.shields.io/badge/Tools-Xcode-informational?style=flat&logo=xcode&logoColor=white&color=d672db)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=d672db)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=d672db)
