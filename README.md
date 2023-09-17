@@ -25,6 +25,6 @@ let technical-skills = [
   ```
 * In the near future...
   - Enhance my iOS development skills
-  - Get an iOS || mobile development internship
+  - Get an iOS or mobile development internship
   - Contribute more to open-source projects
 
