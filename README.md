@@ -1,11 +1,11 @@
 ## Hey, I'm Carolane 👋🏻
 
-* 👩🏼‍💻 I am a **Bachelor of Science Student**, but also a **self-taught iOS Developer**
-* 🎓 Major is **Computer Science**
+### 🔔 If you are in search of an iOS intern or apprentice, don't hesitate to reach out to me!
+
+* 👩🏼‍💻 I am a **Bachelor of Science Student**, and a **self-taught iOS Developer**!
+* 🎓 Major is **Computer Science**.
 * 💻 I have been developing for a little bit more than a year now!
 * 📱 I like to develop small apps, and challenging ones!
-* 🖥️ I am mainly using **macOS**, but I can also use **Linus (Ubuntu)**!
-* 🔔 **If you are in search of an iOS intern or apprentice, don't hesitate to reach out to me!**
 
 ## 🧰 My Technical Skills
 ```swift
