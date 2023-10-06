@@ -10,7 +10,7 @@
 ## 🧰 My Technical Skills
 ```swift
 let technical-skills = [
-    "mobile": ["Swift", "SwiftUI", "CoreML", "MVVM", "MVVM-C"],
+    "mobile": ["Swift", "SwiftUI", "MVVM", "MVVM-C"n "AppStorage/UserDefaults"],
     "front-end": ["VueJS", "JavaScript", "TypeScript", "HTML5", "CSS3"],
     "back-end": ["Python", "Java"],
     "tools": ["Xcode", "Github", "GitLab", "Docker", "CreateML",
