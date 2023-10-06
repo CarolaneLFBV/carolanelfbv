@@ -20,8 +20,7 @@ let technical-skills = [
 ## ⬆️ What I am up to...
 * I'm currently...
   ```
-  - Developing FinanceTrackr, a small iOS app to track monthly budget!
-  - Trying to learn Vapor and more!
+  - Developing a new ios app from scratch (currently gathering technology tools and ideas)
   ```
 * In the near future...
   - Enhance my iOS development skills
