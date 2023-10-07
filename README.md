@@ -1,4 +1,4 @@
-## Hey, I'm Carolane 👋🏻
+## Hey, I'm Carolane 👋🏻!
 
 ### 🔔 If you are in search of an iOS intern or apprentice, don't hesitate to reach out to me!
 
