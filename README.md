@@ -13,7 +13,7 @@ let technical-skills = [
     "mobile": ["Swift", "SwiftUI", "MVVM", "MVVM-C" "AppStorage/UserDefaults"],
     "front-end": ["VueJS", "JavaScript", "HTML5", "CSS3"],
     "back-end": ["Python", "Java"],
-    "tools": ["Xcode", "Github", "GitLab", "Docker", "CreateML",
+    "tools": ["Xcode", "Visual Studio Code", "Github", "GitLab", "Docker", "CreateML",
 ]
 ```
 
