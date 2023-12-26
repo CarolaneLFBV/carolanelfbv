@@ -2,8 +2,7 @@
 
 ### 🔔 If you are looking for an iOS intern or apprentice, don't hesitate to reach out to me!
 
-* 👩🏼‍💻 I am a **Bachelor of Science student**, and a **self-taught iOS Developer**!
-* 🎓 Major is **Computer Science**.
+* 👩🏼‍💻 I am a **self-taught iOS Developer**!
 * 💻 I have nearly a year of experience in iOS development!
 * 📱 I like to develop small apps, and challenging ones!
 
