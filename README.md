@@ -19,10 +19,6 @@ let technical-skills = [
 ## ⬆️ What I am up to...
 * I'm currently...
   ```
-  - Looking for ideas, and needs to be solved!
+  - Working on iChores, an iOS application that helps households to stay clean and organized!
   ```
-* In the near future...
-  - Enhance my iOS development skills
-  - Get an iOS or mobile development internship
-  - Contribute more to open-source projects
 
