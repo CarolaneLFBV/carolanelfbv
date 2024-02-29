@@ -1,7 +1,5 @@
 ## Hey, I'm Carolane 👋🏻!
 
-### 🔔 If you are looking for an iOS developer, don't hesitate to reach out to me!
-
 * 👩🏼‍💻 I am a **self-taught iOS Developer**!
 * 💻 I have nearly a year of experience in iOS development!
 * 📱 I like to develop small apps, and challenging ones!
