@@ -6,7 +6,7 @@
 
 ## 🧰 My Technical Skills
 ```swift
-let technical-skills = [
+let technicalSkills = [
     "mobile": ["Swift", "SwiftUI", "MVVM", "MVVM-C" "AppStorage/UserDefaults"],
     "front-end": ["VueJS", "JavaScript", "HTML5", "CSS3"],
     "back-end": ["Python", "Java"],
