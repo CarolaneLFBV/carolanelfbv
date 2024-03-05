@@ -17,6 +17,6 @@ let technicalSkills = [
 ## ⬆️ What I am up to...
 * I'm currently...
   ```
-  - Working on iChores, an iOS application that helps households to stay clean and organized!
+  - Working on iChores, an iOS application that helps households to stay clean and organized
   ```
 
