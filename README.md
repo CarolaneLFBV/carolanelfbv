@@ -1,16 +1,17 @@
 ## Hey, I'm Carolane 👋🏻!
 
 * 👩🏼‍💻 I am a **self-taught iOS Developer**!
-* 💻 I have nearly a year of experience in iOS development!
-* 📱 I like to develop small apps, and challenging ones!
+* 💻 I have a year of experience in iOS development 🎉!
+* 📱 I enjoy analyzing needs or recurring problems and answering them by developping apps and projects 😊 
 
 ## 🧰 My Technical Skills
 ```swift
 let technicalSkills = [
-    "mobile": ["Swift", "SwiftUI", "MVVM", "MVVM-C" "AppStorage/UserDefaults"],
-    "front-end": ["VueJS", "JavaScript", "HTML5", "CSS3"],
+    "mobile-iOS": ["Swift", "SwiftUI", "MVVM", "MVVM-C" "AppStorage/UserDefaults", "CoreData", "Chart"],
+    "mobile": ["Flutter", "Provider"],
+    "front-end": ["VueJS", "JavaScript", "Typescript", "HTML5", "CSS3"],
     "back-end": ["Python", "Java"],
-    "tools": ["Xcode", "Visual Studio Code", "Github", "GitLab", "Docker", "CreateML",
+    "tools": ["Xcode", "Visual Studio Code", "Github/GitLab", "Docker", "CreateML",
 ]
 ```
 
