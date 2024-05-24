@@ -1,6 +1,8 @@
 ## Hey, I'm Carolane 👋🏻!
 
 * 👩🏼‍💻 Junior Software Engineer && iOS Developer
+* 🎓 Completing Master Degree in Software Engineering
+* 💻 Developing iOS applications for a year
 
 ## 🧰 Technical Skills
 ```swift
