@@ -1,10 +1,8 @@
 ## Hey, I'm Carolane 👋🏻!
 
-* 👩🏼‍💻 I am a **self-taught iOS Developer**!
-* 💻 I have a year of experience in iOS development 🎉!
-* 📱 I enjoy analyzing needs or recurring problems and answering them by developping apps and projects 😊 
+* 👩🏼‍💻 Junior Software Engineer && iOS Developer
 
-## 🧰 My Technical Skills
+## 🧰 Technical Skills
 ```swift
 let technicalSkills = [
     "mobile-iOS": ["Swift", "SwiftUI", "MVVM", "MVVM-C" "AppStorage/UserDefaults", "CoreData", "Chart"],
@@ -14,10 +12,3 @@ let technicalSkills = [
     "tools": ["Xcode", "Visual Studio Code", "Github/GitLab", "Docker", "CreateML",
 ]
 ```
-
-## ⬆️ What I am up to...
-* I'm currently...
-  ```
-  - Working on iChores, an iOS application that helps households to stay clean and organized
-  ```
-
