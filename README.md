@@ -1,7 +1,7 @@
 ## Hey 👋
 
 * 👩🏼‍💻 Junior Software Engineer && iOS Developer
-* 🎓 Completing Master Degree in Software Engineering
+* 🎓 Pursuing Master Degree in Software Engineering
 * 💻 Developing iOS applications for a year
 
 ## 🧰 Technical Skills
