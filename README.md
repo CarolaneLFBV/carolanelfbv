@@ -1,4 +1,4 @@
-## Hey, I'm Carolane 👋🏻!
+## Hey 👋
 
 * 👩🏼‍💻 Junior Software Engineer && iOS Developer
 * 🎓 Completing Master Degree in Software Engineering
