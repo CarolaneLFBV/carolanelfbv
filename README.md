@@ -1,6 +1,6 @@
 ## Hey 👋
 
-* 👩🏼‍💻 Junior Software Engineer && iOS Developer
+* 👩🏼‍💻 Intermediate Software Engineer && iOS Developer
 * 🎓 Pursuing Master Degree in Software Engineering
 
 ## 🧰 Technical Skills
