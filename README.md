@@ -29,6 +29,6 @@
 
 ## ⚡️ Statistics
 <div>
-  <img height="200px" src="https://streak-stats.demolab.com/?user=CarolaneLFBV&theme=transparent&ring=EF7163&fire=EF7163&currStreakNum=0969DA&sideNums=0969DA&currStreakLabel=0969DA&sideLabels=0969DA&dates=636C76&excludeDaysLabel=636C76" alt="GitHub Streak" />
+  <img height="200px" src="https://streak-stats.demolab.com/?user=CarolaneLFBV&theme=transparent&ring=6495ED&fire=6495ED&currStreakNum=0969DA&sideNums=0969DA&currStreakLabel=0969DA&sideLabels=0969DA&dates=636C76&excludeDaysLabel=636C76" alt="GitHub Streak" />
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarolaneLFBV&layout=donut&title_color=0969DA&text_color=636C76&theme=transparent" alt="Top Langs" />
 </div>
