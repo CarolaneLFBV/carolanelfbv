@@ -8,7 +8,7 @@
 let technicalSkills = [
     "mobile-iOS": ["Swift", "SwiftUI", "CoreData", "Chart"],
     "mobile": ["Dart", "Flutter"],
-    "front-end": ["VueJS", "Typescript", "HTML5", "CSS3"],
+    "front-end": ["VueJS", "NextJS", "Typescript", "HTML5", "CSS3"],
     "back-end": ["Python", "Vapor"],
     "tools": ["Xcode", "Visual Studio Code", "Git", "Docker", "CreateML",
 ]
