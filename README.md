@@ -1,7 +1,7 @@
 ## Hey 👋
 
-* 👩🏼💻 Intermediate Software Engineer && iOS Developer
-* 🎓 Pursuing Master Degree in Software Engineering
+* 💻 Intermediate Software Engineer && iOS Developer
+* 🎓 Pursuing a Master Degree in Software Engineering
 
 ---
 
