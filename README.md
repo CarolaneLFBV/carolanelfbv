@@ -1,6 +1,6 @@
 ## Hey 👋
 
-* 💻 iOS/Web Software Engineer (Intermediate)
+* 💻 Software Engineer
 * 🎓 Pursuing a Master's Degree in Software Engineering
 * 🌟 Love developing various projects, including iOS and web applications.
 * 🔧 Currently working on a new portfolio featuring an API, a "back-office" style frontend, and client-side functionality.
