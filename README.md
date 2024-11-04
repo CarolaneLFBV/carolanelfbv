@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 iOS and Web Engineer
 --------------------
 
-I've been learning to code for the past 4 years, and decided to dive completely in since last year. I'm a passionate and love to explore and discover the development world: good practices, new technologies and more!
+I've been learning to code for the past 4 years, and decided to dive completely in last year. I'm a passionate and love to explore and discover the development world: good practices, new technologies and more!
 
 *   🌍  I'm based in France, Strasbourg
 *   🖥️  See my portfolio at [https://www.carolanelefebvre.com \[WIP\]](http://www.carolanelefebvre.com)
