@@ -1,8 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Carolane Lefebvre
+Hi! 👋 My name is Carolane Lefebvre
 =========================================================================================================================================
 
 iOS and Web Engineer
---------------------
+-------------------- 
 
 I've been learning to code for the past 4 years, and decided to dive completely in last year. I'm a passionate and love to explore and discover the development world: good practices, new technologies and more!
 
