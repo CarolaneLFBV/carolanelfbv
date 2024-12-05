@@ -9,7 +9,7 @@ I've been learning to code for the past 4 years, and decided to dive completely 
 *   🌍  I'm based in France, Strasbourg
 *   🖥️  See my portfolio at [https://www.carolanelefebvre.com \[WIP\]](http://www.carolanelefebvre.com)
 *   ✉️  You can contact me at [carolanelfbv.pro@icloud.com](mailto:carolanelfbv.pro@icloud.com)
-*   🧠  I'm learning Nuxt and Vapor, but also enhancing my Swift skills
+*   🧠  I'm learning Nuxt and Swift(+ SwiftUI and Vapor)
 
 ### Current projects
 *   🚀  I'm sharing my development journey through one of my websites called [Documentation Journey](http://carolanelfbv.github.io) (VitePress)
