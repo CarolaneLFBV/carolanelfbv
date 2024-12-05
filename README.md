@@ -9,8 +9,12 @@ I've been learning to code for the past 4 years, and decided to dive completely 
 *   🌍  I'm based in France, Strasbourg
 *   🖥️  See my portfolio at [https://www.carolanelefebvre.com \[WIP\]](http://www.carolanelefebvre.com)
 *   ✉️  You can contact me at [carolanelfbv.pro@icloud.com](mailto:carolanelfbv.pro@icloud.com)
-*   🚀  I'm currently working on [Documentation Journey](http://carolanelfbv.github.io)
 *   🧠  I'm learning Nuxt and Vapor, but also enhancing my Swift skills
+
+### Current projects
+*   🚀  I'm sharing my development journey through one of my websites called [Documentation Journey](http://carolanelfbv.github.io) (VitePress)
+*   🖥️  I'm also currently working on my [Portfolio](https://github.com/CarolaneLFBV/portfolio) (VAPOR\NuxtJS)
+*   📱  As I enjoy developing web apps, I am still developing iOS applications, and currently enhancing one of my old projects called [iChores](https://github.com/CarolaneLFBV/iChores) (Swift, SwiftUI, CoreData)
 
 ### Skills 
 <p align="left">
