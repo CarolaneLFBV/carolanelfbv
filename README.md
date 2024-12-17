@@ -14,7 +14,7 @@ I've been learning to code for the past 4 years, and decided to dive completely 
 ### Current projects
 *   🚀  I'm sharing my development journey through one of my websites called [Documentation Journey](http://carolanelfbv.github.io) (VitePress)
 *   🖥️  I'm also currently working on my [Portfolio](https://github.com/CarolaneLFBV/portfolio) (VAPOR\NuxtJS)
-*   📱  As I enjoy developing web apps, I am still developing iOS applications, and currently enhancing one of my old projects called [iChores](https://github.com/CarolaneLFBV/iChores) (Swift, SwiftUI, CoreData)
+*   📱  As I enjoy developing web apps, I am developing iOS applications
 
 ### Skills 
 <p align="left">
