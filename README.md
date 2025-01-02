@@ -14,7 +14,7 @@ I've been learning to code for the past 4 years, and decided to dive completely 
 ### Current projects
 *   🚀  I'm sharing my development journey through one of my websites called [Documentation Journey](http://carolanelfbv.github.io) (VitePress)
 *   🖥️  I'm also currently working on my [Portfolio](https://github.com/CarolaneLFBV/portfolio) (VAPOR\NuxtJS)
-*   📱  As I enjoy developing web apps, I am developing iOS applications
+*   📱  I'm the developer of [Horoscode iOS Edition](), [original project made by Cedric Leprohon](https://horoscode.dev/)
 
 ### Skills 
 <p align="left">
