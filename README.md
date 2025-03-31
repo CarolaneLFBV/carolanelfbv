@@ -9,11 +9,7 @@ I've been learning to code for the past 4 years, and decided to dive completely 
 *   🌍  Based in France, Strasbourg
 *   🖥️  See my portfolio at [https://www.carolanelefebvre.com](http://www.carolanelefebvre.com)
 *   ✉️  You can contact me at [carolanelfbv.pro@icloud.com](mailto:carolanelfbv.pro@icloud.com)
-*   🧠  Currently learning NuxtJS (web), Swift/SwiftUI (iOS), and Vapor (Backend)
-
-### Current projects
 *   🚀  I'm sharing my development journey through one of my websites called [CodeKeep](http://carolanelfbv.github.io) (VitePress)
-*   🖥️  I'm currently developing the V2 of my [Portfolio](https://www.carolanelefebvre.com) (VAPOR\NuxtJS)
 
 ### Skills 
 <p align="left">
@@ -35,13 +31,6 @@ I've been learning to code for the past 4 years, and decided to dive completely 
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
       </picture>
   </a>
-  <a href="https://www.twitch.tv/okeep_" target="_blank" rel="noreferrer">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" />
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
-      </picture>
-   </a>
 </p>
 
 ### Badges
