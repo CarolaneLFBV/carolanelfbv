@@ -9,7 +9,7 @@ I've been learning to code for the past 4 years, and decided to dive completely 
 *   🌍  Based in France, Strasbourg
 *   🖥️  See my portfolio at [https://www.carolanelefebvre.com](http://www.carolanelefebvre.com)
 *   ✉️  You can contact me at [carolanelfbv.pro@icloud.com](mailto:carolanelfbv.pro@icloud.com)
-*   🚀  I'm sharing my development journey through one of my websites called [CodeKeep](http://carolanelfbv.github.io) (VitePress)
+*   🚀  I'm sharing my development journey through [CodeKeep](http://carolanelfbv.github.io) (VitePress)
 
 ### Skills 
   #### Mobile
