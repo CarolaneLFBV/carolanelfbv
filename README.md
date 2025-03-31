@@ -7,7 +7,7 @@ iOS and Web Engineer
 I've been learning to code for the past 4 years, and decided to dive completely in last year. I'm a passionate and love to explore and discover the development world: good practices, new technologies and more!
 
 *   🌍  Based in France, Strasbourg
-*   🖥️  See my portfolio at [https://www.carolanelefebvre.com \[WIP\]](http://www.carolanelefebvre.com)
+*   🖥️  See my portfolio at [https://www.carolanelefebvre.com](http://www.carolanelefebvre.com)
 *   ✉️  You can contact me at [carolanelfbv.pro@icloud.com](mailto:carolanelfbv.pro@icloud.com)
 *   🧠  Currently learning NuxtJS (web), Swift/SwiftUI (iOS), and Vapor (Backend)
 
