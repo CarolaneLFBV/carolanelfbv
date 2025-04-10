@@ -1,15 +1,15 @@
-Hi! 👋 My name is Carolane Lefebvre
+Hi, I'm Carolane 👋 
 =========================================================================================================================================
 
-iOS and Web Engineer
+Junior iOS Engineer and Web Developer
 -------------------- 
 
-I've been learning to code for the past 4 years, and decided to dive completely in last year. I'm a passionate and love to explore and discover the development world: good practices, new technologies and more!
+I've been learning to code for the past 4 years, and decided to dive completely in iOS end of 2023. I'm a passionate and love to explore and discover the development world: good practices, new technologies and more!
 
 *   🌍  Based in France, Strasbourg
 *   🖥️  See my portfolio at [https://www.carolanelefebvre.com](http://www.carolanelefebvre.com)
 *   ✉️  You can contact me at [carolanelfbv.pro@icloud.com](mailto:carolanelfbv.pro@icloud.com)
-*   🚀  I'm sharing my development journey through [CodeKeep](http://carolanelfbv.github.io) (VitePress)
+*   🚀  I'm sharing my development journey through [Codekeep](http://carolanelfbv.github.io) (VitePress)
 
 ### Skills 
   #### Mobile
