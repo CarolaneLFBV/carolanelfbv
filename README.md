@@ -1,15 +1,16 @@
-Hi, I'm Carolane 👋 
+Hi, I'm Carolane 👋
 =========================================================================================================================================
 
-Junior iOS Engineer and Web Developer
+🛠️ Apprentice Software Engineer by day — 🌙 Junior iOS Engineer by night
 -------------------- 
 
-I've been learning to code for the past 4 years, and decided to dive completely in iOS end of 2023. I'm a passionate and love to explore and discover the development world: good practices, new technologies and more!
+I've been learning to code over the past 4 years, and fully committed to iOS development at the end of 2023. I love building meaningful apps that challenge me, and I’m always eager to explore new technologies, best practices, and the ever-evolving world of development.
+Although iOS is my main focus, I enjoy venturing into backend and web development to broaden my skills and understanding of the full stack
 
 *   🌍  Based in France, Strasbourg
-*   🖥️  See my portfolio at [https://www.carolanelefebvre.com](http://www.carolanelefebvre.com)
-*   ✉️  You can contact me at [carolanelfbv.pro@icloud.com](mailto:carolanelfbv.pro@icloud.com)
-*   🚀  I'm sharing my development journey through [Codekeep](http://carolanelfbv.github.io) (VitePress)
+*   🖥️  Check out my portfolio: [carolanelefebvre.com](http://www.carolanelefebvre.com)
+*   🚀  I share my journey and thoughts on [Medium](https://medium.com/@carolane_lefebvre)
+*   ✉️  Check out my links [on my bento]((https://bento.me/okeep)
 
 ### Skills 
   #### Mobile
