@@ -10,7 +10,7 @@ Although iOS is my main focus, I enjoy venturing into backend and web developmen
 *   🌍  Based in France, Strasbourg
 *   🖥️  Check out my portfolio: [carolanelefebvre.com](http://www.carolanelefebvre.com)
 *   🚀  I share my journey and thoughts on [Medium](https://medium.com/@carolane_lefebvre)
-*   ✉️  Check out my links [on my bento]((https://bento.me/okeep)
+*   ✉️  Check out my links [on my bento](https://bento.me/okeep)
 
 ### Skills 
   #### Mobile
