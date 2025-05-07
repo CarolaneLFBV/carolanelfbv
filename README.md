@@ -4,10 +4,7 @@ Hi, I'm Carolane 👋
 🛠️ Apprentice Software Engineer by day — 🌙 Junior iOS Engineer by night
 -------------------- 
 
-I've been learning to code over the past 4 years, and fully committed to iOS development at the end of 2023. I love building meaningful apps that challenge me, and I’m always eager to explore new technologies, best practices, and the ever-evolving world of development.
-Although iOS is my main focus, I enjoy venturing into backend and web development to broaden my skills and understanding of the full stack
-
-*   🌍  Based in France, Strasbourg
+*   🌍  Based in France
 *   🖥️  Check out my portfolio: [carolanelefebvre.com](http://www.carolanelefebvre.com)
 *   🚀  I share my journey and thoughts on [Medium](https://medium.com/@carolane_lefebvre)
 *   ✉️  Check out my links [on my bento](https://bento.me/okeep)
