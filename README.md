@@ -1,7 +1,7 @@
 Hi, I'm Carolane 👋
 =========================================================================================================================================
 
-🛠️ Apprentice Software Engineer by day — 🌙 Junior iOS Engineer by night
+🛠️ Apprentice Software Engineer by day — 🌙 iOS Engineer by night
 -------------------- 
 
 *   🌍  Based in France
