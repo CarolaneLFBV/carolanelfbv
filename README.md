@@ -5,7 +5,7 @@ Hi, I'm Carolane 👋
 -------------------- 
 
 *   🌍  Based in France
-*   🖥️  Check out my portfolio: [carolanelefebvre.com](http://www.carolanelefebvre.com)
+*   🖥️  Check out my portfolio: [carolanelefebvre.com](http://carolanelefebvre.com)
 *   🚀  I share my journey and thoughts on [Medium](https://medium.com/@carolane_lefebvre)
 *   ✉️  Check out my links [on my bento](https://bento.me/okeep)
 
