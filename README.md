@@ -18,6 +18,7 @@ Hi, I'm Carolane 👋
   <a href="https://developer.apple.com/xcode/swiftdata/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" width="36" height="36" alt="SwiftData" /></a>
   <a href="https://developer.apple.com/icloud/cloudkit/" target="_blank" rel="noreferrer"><img src="https://swiftwithmajid.com/public/cloudkit.png" width="36" height="36" alt="CloudKit" /></a>
   <a href="https://developer.apple.com/documentation/coreml/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/create-ml/create-ml-96x96_2x.png" width="36" height="36" alt="CoreML" /></a>
+    <a href="https://developer.apple.com/documentation/coreml/" target="_blank" rel="noreferrer"><img src="  https://developer.apple.com/assets/elements/icons/foundationmodel/foundationmodel-96x96_2x.png" width="36" height="36" alt="FoundationModels" /></a>
   <a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a>
   <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios7/600/FFFFFF/mac-os.png" width="36" height="36" alt="macOS" /></a>
   
