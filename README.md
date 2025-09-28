@@ -1,10 +1,11 @@
 Hi, I'm Carolane 👋
 =========================================================================================================================================
 
-🛠️ Apprentice Software Engineer by day — 🌙 iOS Engineer by night
+🛠️ iOS Developer
 -------------------- 
 
 *   🌍  Based in France
+*   📱  Founder of [Keepio](http://www.keepio.fr), and [Caffio](http://www.caffio.fr)
 *   🖥️  Check out my portfolio: [carolanelefebvre.com](http://carolanelefebvre.com)
 *   🚀  I share my journey and thoughts on [Medium](https://medium.com/@carolane_lefebvre)
 *   ✉️  Check out my links [on my bento](https://bento.me/okeep)
