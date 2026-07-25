@@ -5,9 +5,9 @@ Hi, I'm Carolane 👋
 -------------------- 
 
 *   🌍  Based in France
-*   📱  Founder of [Keepio](http://www.keepio.fr), and [Caffio](http://www.caffio.app)
+*   📱  Founder of [Keepio](http://www.keepio.fr), and the [KeepOS Community for iOS developers](https://keepos.eu)
 *   🖥️  Check out my portfolio: [carolanelefebvre.com](http://carolanelefebvre.com)
-*   🚀  I share my journey and thoughts on [Medium](https://medium.com/@carolane_lefebvre)
+*   Love writing articles [here](https://keepos.eu/en/keepos/articles)
 
 ### Skills 
   #### Mobile
