@@ -1,50 +1,117 @@
-Hi, I'm Carolane 👋
-=========================================================================================================================================
+# Welcome in! 👋🏻
 
-🛠️ iOS Developer
--------------------- 
+### iOS & macOS Developer [Swift | SwiftUI]
 
-*   🌍  Based in France
-*   📱  Founder of [Keepio](http://www.keepio.fr), and the [KeepOS Community for iOS developers](https://keepos.eu)
-*   🖥️  Check out my portfolio: [carolanelefebvre.com](http://carolanelefebvre.com)
-*   🩵 Love writing articles [here](https://keepos.eu/en/keepos/articles)
+I'm a mobile developer focused on building, architecting and shipping applications across the Apple ecosystem.
 
-### Skills 
-  #### Mobile
+I enjoy working on everything that turns an idea into a production-ready app: **architecture, UI, persistence, APIs, testing, CI/CD and App Store distribution**. 
+
+Currently building **[Keepio](https://www.keepio.fr)** for iOS and macOS — with Android finally in development after *a lot* of user requests (oops😅). 
+
+🌍 Based in France
+
+[Portfolio](http://carolanelefebvre.com) · [YouTube](https://www.youtube.com/@okeep_tv) · [Articles](https://carolanelefebvre.com/en/articles)
+
+---
+
+## 🛠️ Technical Skills
+
+### 🍎 iOS & macOS Development
+
 <p align="left">
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftui/swiftui-96x96_2x.png" width="36" height="36" alt="SwiftUI" /></a>
-  <a href="https://developer.apple.com/documentation/coredata" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:300/0*dmd7Gxv_QzTnWr-X.png" width="36" height="36" alt="CoreData" /></a>
-  <a href="https://developer.apple.com/xcode/swiftdata/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" width="36" height="36" alt="SwiftData" /></a>
-  <a href="https://developer.apple.com/icloud/cloudkit/" target="_blank" rel="noreferrer"><img src="https://swiftwithmajid.com/public/cloudkit.png" width="36" height="36" alt="CloudKit" /></a>
-  <a href="https://developer.apple.com/documentation/coreml/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/create-ml/create-ml-96x96_2x.png" width="36" height="36" alt="CoreML" /></a>
-    <a href="https://developer.apple.com/documentation/coreml/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/foundationmodel/foundationmodel-96x96_2x.png" width="36" height="36" alt="FoundationModels" /></a>
-    <a href="https://developer.apple.com/storekit/" target="_blank" rel="noreferrer"><img src="https://developer.apple.com/assets/elements/icons/storekit/storekit-128x128_2x.png" width="36" height="36" alt="StoreKit" /></a>
-    <a href="https://developer.apple.com/news/?id=ou1gpq68" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fit:384/0*Sc1dHQk8cEWfeUBK" width="36" height="36" alt="WidgetKit" /></a>
-  <a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a>
-  <a href="https://www.apple.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios7/600/FFFFFF/mac-os.png" width="36" height="36" alt="macOS" /></a>
-  
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-007AFF?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007AFF?style=flat-square&logo=xcode&logoColor=white" />
+  <img alt="iOS" src="https://img.shields.io/badge/iOS-007AFF?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="macOS" src="https://img.shields.io/badge/macOS-007AFF?style=flat-square&logo=apple&logoColor=white" />
 </p>
 
-#### Backend
+### 🏗️ Architecture & Engineering
+
 <p align="left">
-  <a href="https://vapor.codes/" target="_blank" rel="noreferrer"><img src="https://docs.vapor.codes/assets/logo.png" width="36" height="36" alt="Vapor" /></a>
+  <img alt="Clean Architecture" src="https://img.shields.io/badge/Clean_Architecture-333333?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="MVVM" src="https://img.shields.io/badge/MVVM-333333?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Dependency Injection" src="https://img.shields.io/badge/Dependency_Injection-333333?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Swift Concurrency" src="https://img.shields.io/badge/Swift_Concurrency-333333?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-333333?style=flat-square&logo=swift&logoColor=white" />
 </p>
 
-#### Web
+### 💾 Data & Persistence
+
 <p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-  <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" width="36" height="36" alt="Webstorm" /></a>
+  <img alt="SwiftData" src="https://img.shields.io/badge/SwiftData-5856D6?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Core Data" src="https://img.shields.io/badge/Core_Data-5856D6?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="CloudKit" src="https://img.shields.io/badge/CloudKit-5856D6?style=flat-square&logo=icloud&logoColor=white" />
 </p>
 
-#### Tools
+###  Apple Frameworks
+
 <p align="left">
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
+  <img alt="StoreKit" src="https://img.shields.io/badge/StoreKit-007AFF?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="WidgetKit" src="https://img.shields.io/badge/WidgetKit-007AFF?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Vision" src="https://img.shields.io/badge/Vision-007AFF?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="AVFoundation" src="https://img.shields.io/badge/AVFoundation-007AFF?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Core ML" src="https://img.shields.io/badge/Core_ML-007AFF?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Foundation Models" src="https://img.shields.io/badge/Foundation_Models-007AFF?style=flat-square&logo=apple&logoColor=white" />
 </p>
+
+### 🧪 Testing & Delivery
+
+<p align="left">
+  <img alt="Swift Testing" src="https://img.shields.io/badge/Swift_Testing-34C759?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Xcode Cloud" src="https://img.shields.io/badge/Xcode_Cloud-34C759?style=flat-square&logo=xcode&logoColor=white" />
+  <img alt="Instruments" src="https://img.shields.io/badge/Instruments-34C759?style=flat-square&logo=xcode&logoColor=white" />
+  <img alt="TestFlight" src="https://img.shields.io/badge/TestFlight-34C759?style=flat-square&logo=appstore&logoColor=white" />
+  <img alt="App Store Connect" src="https://img.shields.io/badge/App_Store_Connect-34C759?style=flat-square&logo=appstore&logoColor=white" />
+  <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-34C759?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+### ⚙️ Backend & Cloud
+
+<p align="left">
+  <img alt="Vapor" src="https://img.shields.io/badge/Vapor-FF9500?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Cloudflare Workers" src="https://img.shields.io/badge/Cloudflare_Workers-FF9500?style=flat-square&logo=cloudflare&logoColor=white" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-00A8E8?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-00A8E8?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="Nuxt" src="https://img.shields.io/badge/Nuxt-00A8E8?style=flat-square&logo=nuxtdotjs&logoColor=white" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-00A8E8?style=flat-square&logo=tailwindcss&logoColor=white" />
+</p>
+
+### 🔧 Tools & Infrastructure
+
+<p align="left">
+  <img alt="Git" src="https://img.shields.io/badge/Git-6B7280?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-6B7280?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-6B7280?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="OrbStack" src="https://img.shields.io/badge/OrbStack-6B7280?style=flat-square" />
+  <img alt="Postman" src="https://img.shields.io/badge/Postman-6B7280?style=flat-square&logo=postman&logoColor=white" />
+  <img alt="Bruno" src="https://img.shields.io/badge/Bruno-6B7280?style=flat-square" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-6B7280?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Bash" src="https://img.shields.io/badge/Bash-6B7280?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
+
+---
+## 🔬 What I'm exploring lately
+
+I'm particularly interested in Apple's latest APIs and what's happening around on-device intelligence, computer vision and new ways of interacting with apps.
+
+Currently playing with:
+
+<p>
+  <img alt="Vision" src="https://img.shields.io/badge/-Vision-5E5CE6?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="AVFoundation" src="https://img.shields.io/badge/-AVFoundation-FF2D55?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Core ML" src="https://img.shields.io/badge/-Core_ML-34C759?style=flat-square&logo=apple&logoColor=white" />
+</p>
+
+---
+
+## ✍️ Sharing what I learn
+
+I enjoy writing about the things I learn while building apps and exploring the Apple ecosystem — from Swift and iOS development to new Apple technologies and indie development.
+
+📖 **[Read my articles](https://carolanelefebvre.com/en/articles)**
