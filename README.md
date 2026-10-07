@@ -31,6 +31,7 @@ Currently building **[Keepio](https://www.keepio.fr)** for iOS and macOS — wit
 <p align="left">
   <img alt="Clean Architecture" src="https://img.shields.io/badge/Clean_Architecture-333333?style=flat-square&logo=swift&logoColor=white" />
   <img alt="MVVM" src="https://img.shields.io/badge/MVVM-333333?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Observation" src="https://img.shields.io/badge/Observation-333333?style=flat-square&logo=swift&logoColor=white" />
   <img alt="Dependency Injection" src="https://img.shields.io/badge/Dependency_Injection-333333?style=flat-square&logo=swift&logoColor=white" />
   <img alt="Swift Concurrency" src="https://img.shields.io/badge/Swift_Concurrency-333333?style=flat-square&logo=swift&logoColor=white" />
   <img alt="REST APIs" src="https://img.shields.io/badge/REST_APIs-333333?style=flat-square&logo=swift&logoColor=white" />
@@ -47,6 +48,7 @@ Currently building **[Keepio](https://www.keepio.fr)** for iOS and macOS — wit
 ###  Apple Frameworks
 
 <p align="left">
+  <img alt="App Intents" src="https://img.shields.io/badge/App_Intents-007AFF?style=flat-square&logo=apple&logoColor=white" />
   <img alt="StoreKit" src="https://img.shields.io/badge/StoreKit-007AFF?style=flat-square&logo=apple&logoColor=white" />
   <img alt="WidgetKit" src="https://img.shields.io/badge/WidgetKit-007AFF?style=flat-square&logo=apple&logoColor=white" />
   <img alt="Vision" src="https://img.shields.io/badge/Vision-007AFF?style=flat-square&logo=apple&logoColor=white" />
@@ -64,6 +66,13 @@ Currently building **[Keepio](https://www.keepio.fr)** for iOS and macOS — wit
   <img alt="TestFlight" src="https://img.shields.io/badge/TestFlight-34C759?style=flat-square&logo=appstore&logoColor=white" />
   <img alt="App Store Connect" src="https://img.shields.io/badge/App_Store_Connect-34C759?style=flat-square&logo=appstore&logoColor=white" />
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-34C759?style=flat-square&logo=githubactions&logoColor=white" />
+</p>
+
+### 📱 Cross-platform
+
+<p align="left">
+  <img alt="React Native" src="https://img.shields.io/badge/React_Native-4630EB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-4630EB?style=flat-square&logo=expo&logoColor=white" />
 </p>
 
 ### ⚙️ Backend & Cloud
