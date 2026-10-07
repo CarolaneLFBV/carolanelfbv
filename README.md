@@ -116,11 +116,3 @@ Currently playing with:
   <img alt="AVFoundation" src="https://img.shields.io/badge/-AVFoundation-FF2D55?style=flat-square&logo=apple&logoColor=white" />
   <img alt="Core ML" src="https://img.shields.io/badge/-Core_ML-34C759?style=flat-square&logo=apple&logoColor=white" />
 </p>
-
----
-
-## ✍️ Sharing what I learn
-
-I enjoy writing about the things I learn while building apps and exploring the Apple ecosystem — from Swift and iOS development to new Apple technologies and indie development.
-
-📖 **[Read my articles](https://carolanelefebvre.com/en/articles)**
