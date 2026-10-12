@@ -107,12 +107,36 @@ Currently building **[Keepio](https://www.keepio.fr)** for iOS and macOS — wit
 ---
 ## 🔬 What I'm exploring lately
 
-I'm particularly interested in Apple's latest APIs and what's happening around on-device intelligence, computer vision and new ways of interacting with apps.
+Driven by curiosity, I love understanding how things work, from software and automation to science, physics and quantum computing.
 
-Currently playing with:
+I enjoy experimenting with new technologies, exploring Apple's frameworks and turning ideas into real projects. Sometimes it's about building something useful, sometimes it's simply about understanding what's possible.
 
-<p>
-  <img alt="Vision" src="https://img.shields.io/badge/-Vision-5E5CE6?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="AVFoundation" src="https://img.shields.io/badge/-AVFoundation-FF2D55?style=flat-square&logo=apple&logoColor=white" />
-  <img alt="Core ML" src="https://img.shields.io/badge/-Core_ML-34C759?style=flat-square&logo=apple&logoColor=white" />
+### 🖐️ HandKit: Gesture-based Interactions
+
+Exploring real-time hand tracking and gesture recognition using Apple's Vision and AVFoundation frameworks. Experimenting with new ways of interacting with technology beyond traditional touch interfaces.
+
+<p align="left">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-007AFF?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Vision" src="https://img.shields.io/badge/Vision-007AFF?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="AVFoundation" src="https://img.shields.io/badge/AVFoundation-007AFF?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="HomeKit" src="https://img.shields.io/badge/HomeKit-007AFF?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Swift Concurrency" src="https://img.shields.io/badge/Swift_Concurrency-333333?style=flat-square&logo=swift&logoColor=white" />
+</p>
+
+### 🏠 Authom: Self-hosted Home Automation
+
+Building my own self-hosted home automation ecosystem from the ground up.
+
+Exploring how to bring together Apple's native frameworks, local servers, databases and independent services into one connected, privacy-first environment.
+
+The goal? Understand and build the entire system myself, from infrastructure to the apps that interact with it.
+
+<p align="left">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-007AFF?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="SwiftUI" src="https://img.shields.io/badge/SwiftUI-007AFF?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="HomeKit" src="https://img.shields.io/badge/HomeKit-007AFF?style=flat-square&logo=apple&logoColor=white" />
+  <img alt="Vapor" src="https://img.shields.io/badge/Vapor-FF9500?style=flat-square&logo=swift&logoColor=white" />
+  <img alt="Self-hosted" src="https://img.shields.io/badge/Self--Hosted-6B7280?style=flat-square&logo=linux&logoColor=white" />
+  <img alt="Automation" src="https://img.shields.io/badge/Automation-6B7280?style=flat-square&logo=apple&logoColor=white" />
 </p>
