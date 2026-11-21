@@ -6,7 +6,10 @@ I'm a mobile developer focused on building, architecting and shipping applicatio
 
 I enjoy working on everything that turns an idea into a production-ready app: **architecture, UI, persistence, APIs, testing, CI/CD and App Store distribution**. 
 
-Currently building, maintaining and distributing **[Keepio](https://www.keepio.fr)** for iOS and macOS — with Android finally in development after *a lot* of user requests (oops😅).. and also **[Caffio](https://caffio.okorp.fr)** for iOS and watchOS (yay!).
+Current projects:
+- **[Keepio](https://www.keepio.fr)** • iOS & macOS (Android in testing phase) • Swift/SwiftUI + Expo
+- **[Caffio](https://caffio.okorp.fr)** for iOS and watchOS • Swift/SwiftUI
+- **[Lisière](https://lisiere.okorp.fr)** for iOS and Android (both Native) • Swift/SwiftUI + Kotlin/Compose + KMP
 
 🌍 Based in France
 
