@@ -1,6 +1,7 @@
 # Welcome in! 👋🏻
 
 ### iOS & macOS Developer [Swift | SwiftUI]
+[Portfolio](http://carolanelefebvre.com) · [YouTube](https://www.youtube.com/@okeep_tv) · [Articles](https://carolanelefebvre.com/en/articles)
 
 I'm a mobile developer focused on building, architecting and shipping applications across the Apple ecosystem.
 
@@ -12,8 +13,6 @@ Current projects:
 - **[Lisière](https://lisiere.okorp.fr)** for iOS and Android (both Native) • Swift/SwiftUI + Kotlin/Compose + KMP
 
 🌍 Based in France
-
-[Portfolio](http://carolanelefebvre.com) · [YouTube](https://www.youtube.com/@okeep_tv) · [Articles](https://carolanelefebvre.com/en/articles)
 
 ---
 
