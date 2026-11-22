@@ -9,8 +9,8 @@ I enjoy working on everything that turns an idea into a production-ready app: **
 
 Current projects:
 - **[Keepio](https://www.keepio.fr)** • iOS & macOS (Android in testing phase) • Swift/SwiftUI + Expo
-- **[Caffio](https://caffio.okorp.fr)** for iOS and watchOS • Swift/SwiftUI
-- **[Lisière](https://lisiere.okorp.fr)** for iOS and Android (both Native) • Swift/SwiftUI + Kotlin/Compose + KMP
+- **[Caffio](https://caffio.okorp.fr)** • iOS and watchOS • Swift/SwiftUI
+- **[Lisière](https://lisiere.okorp.fr)** • iOS and Android • Swift/SwiftUI + Kotlin/Compose + KMP
 
 🌍 Based in France
 
